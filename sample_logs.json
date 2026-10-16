@@ -1,0 +1,104 @@
+[
+  {
+    "timestamp": "2026-10-15T09:00:00",
+    "username": "amit",
+    "source_ip": "192.0.2.10",
+    "status": "FAILURE"
+  },
+  {
+    "timestamp": "2026-10-15T09:01:00",
+    "username": "amit",
+    "source_ip": "192.0.2.10",
+    "status": "FAILURE"
+  },
+  {
+    "timestamp": "2026-10-15T09:02:00",
+    "username": "amit",
+    "source_ip": "192.0.2.10",
+    "status": "FAILURE"
+  },
+  {
+    "timestamp": "2026-10-15T09:03:00",
+    "username": "amit",
+    "source_ip": "192.0.2.10",
+    "status": "FAILURE"
+  },
+  {
+    "timestamp": "2026-10-15T09:04:00",
+    "username": "amit",
+    "source_ip": "192.0.2.10",
+    "status": "FAILURE"
+  },
+  {
+    "timestamp": "2026-10-15T09:05:00",
+    "username": "amit",
+    "source_ip": "192.0.2.10",
+    "status": "SUCCESS"
+  },
+  {
+    "timestamp": "2026-10-15T09:10:00",
+    "username": "guest",
+    "source_ip": "192.0.2.25",
+    "status": "FAILURE"
+  },
+  {
+    "timestamp": "2026-10-15T09:11:00",
+    "username": "guest",
+    "source_ip": "192.0.2.25",
+    "status": "FAILURE"
+  },
+  {
+    "timestamp": "2026-10-15T09:12:00",
+    "username": "guest",
+    "source_ip": "192.0.2.25",
+    "status": "SUCCESS"
+  },
+  {
+    "timestamp": "2026-10-15T09:13:00",
+    "username": "admin",
+    "source_ip": "198.51.100.8",
+    "status": "FAILURE"
+  },
+  {
+    "timestamp": "2026-10-15T09:14:00",
+    "username": "admin",
+    "source_ip": "198.51.100.8",
+    "status": "FAILURE"
+  },
+  {
+    "timestamp": "2026-10-15T09:15:00",
+    "username": "admin",
+    "source_ip": "198.51.100.8",
+    "status": "FAILURE"
+  },
+  {
+    "timestamp": "2026-10-15T09:16:00",
+    "username": "admin",
+    "source_ip": "198.51.100.8",
+    "status": "FAILURE"
+  },
+  {
+    "timestamp": "2026-10-15T09:17:00",
+    "username": "admin",
+    "source_ip": "198.51.100.8",
+    "status": "FAILURE"
+  },
+  {
+    "timestamp": "2026-10-15T09:18:00",
+    "username": "analyst",
+    "source_ip": "203.0.113.17",
+    "status": "SUCCESS"
+  },
+  {
+    "timestamp": "2026-10-15T09:19:00",
+    "username": "analyst",
+    "source_ip": "203.0.113.17",
+    "status": "FAILURE"
+  },
+  {
+    "timestamp": "2026-10-15T09:20:00",
+    "username": "analyst",
+    "source_ip": "203.0.113.17",
+    "status": "SUCCESS"
+  }
+]
