@@ -25,7 +25,7 @@ It is a beginner-friendly **defensive security** project: it shows how simple lo
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/python-failed-login-analyzer.git
+git clone https://github.com/<amitjha-100>/python-failed-login-analyzer.git
 cd python-failed-login-analyzer
 python analyzer.py
 ```
