@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+
 """Analyze authentication logs (CSV or JSON) and flag repeated failed logins."""
 
 import argparse
