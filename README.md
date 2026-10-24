@@ -152,7 +152,7 @@ python-failed-login-analyzer/
 ├── sample_logs.jsonl
 ├── tests/
 │   └── test_analyzer.py
-├── reports/              # created when you run the program
+├── reports/              
 └── README.md
 ```
 
